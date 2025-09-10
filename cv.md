@@ -53,7 +53,7 @@ Front-End Developer at the start of my career. I enjoy turning ideas into workin
 
 [![github icon](./images/icons/github-icon.svg) Repository](https://github.com/Zhdko/movies-explorer-full?tab=readme-ov-file#%D1%81%D0%B0%D0%B9%D1%82)
 
-#
+***
 
 ### Mesto&ensp;&ensp;&ensp;&ensp;<img alt="React JS" src="./images/icons/react-ico.svg" />&ensp;&ensp;<img alt="Node.js" src="./images/icons/node-ico.svg" />&ensp;&ensp;<img alt="Mongo.DB" src="./images/icons/mongo-ico.svg" />&ensp;&ensp;<img alt="CSS" src="./images/icons/css-ico.svg" />&ensp;&ensp;<img alt="GIT" src="./images/icons/git-ico.svg" />
 
