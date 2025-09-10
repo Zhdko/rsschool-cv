@@ -94,19 +94,14 @@ Front-End Developer at the start of my career. I enjoy turning ideas into workin
 ```
 
 ## Education
-- **Yandex Prakticum**, Frontend developer &ensp;
-<sup>09/2023 - 12/2023</sup>
-<br />
-<sup>Completed intensive training in JavaScript, HTML, CSS, React, and basic backend development.</sup>
-- **HarvardX: CS50's**, Computer Science course &ensp;
-<sup>07/2024 - 10/2024</sup>
-<br />
-<sup>Completed an intensive course covering fundamentals of programming, algorithms, data structures, and web development.</sup>
+- **Frontend Developer**, Yandex.Practicum <sup>09/2023 – 12/2023</sup>  
+  <sup>Focused on JavaScript, HTML, CSS, React, and basic backend development.</sup>
+- **CS50: Introduction to Computer Science**, HarvardX <sup>07/2024 – 10/2024</sup>  
+  <sup>Covered programming fundamentals, algorithms, data structures, and web development.</sup>
 
 ## Languages
 - **Russian:** Native  
 - **English:** B1 (Intermediate)  
 - **Japanese:** A1 (Beginner)  
 - **Georgian:** A1 (Beginner)
-
 
