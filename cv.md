@@ -12,8 +12,6 @@
 ## About me
 Front-End Developer at the start of my career. I enjoy turning ideas into working interfaces and thrive in teamwork. Experienced as a team leader in study projects. Currently focusing on strengthening React skills, learning Python, and improving algorithmic thinking to reach Junior+ level and launch my first application.
 
-<br />
-
 ## SKILLS
 **Languages & Frameworks:** JavaScript, HTML5, CSS3, React  
 **Back-end & Databases:** Node.js, MongoDB  
@@ -39,7 +37,8 @@ Front-End Developer at the start of my career. I enjoy turning ideas into workin
 
 ###  Movie Explorer&ensp;&ensp;&ensp;&ensp;<img alt="React JS" src="./images/icons/react-ico.svg" />&ensp;&ensp;<img alt="Node.js" src="./images/icons/node-ico.svg" />&ensp;&ensp;<img alt="Mongo.DB" src="./images/icons/mongo-ico.svg" />&ensp;&ensp;<img alt="CSS" src="./images/icons/css-ico.svg" />&ensp;&ensp;<img alt="GIT" src="./images/icons/git-ico.svg" />
 
-><sup>Movie search service. <br />Full-stack project built with React, Node.js, MongoDB, and CSS. Final project to demonstrate and consolidate skills. Implemented client-side data filtering and JWT-based authentication.</sup>
+><sup>Movie search service.  
+Full-stack project built with React, Node.js, MongoDB, and CSS. Final project to demonstrate and consolidate skills. Implemented client-side data filtering and JWT-based authentication.</sup>
 
 #### Functionality:
 
@@ -57,7 +56,8 @@ Front-End Developer at the start of my career. I enjoy turning ideas into workin
 
 ### Mesto&ensp;&ensp;&ensp;&ensp;<img alt="React JS" src="./images/icons/react-ico.svg" />&ensp;&ensp;<img alt="Node.js" src="./images/icons/node-ico.svg" />&ensp;&ensp;<img alt="Mongo.DB" src="./images/icons/mongo-ico.svg" />&ensp;&ensp;<img alt="CSS" src="./images/icons/css-ico.svg" />&ensp;&ensp;<img alt="GIT" src="./images/icons/git-ico.svg" />
 
-><sup>Photo sharing service<br />Implemented a responsive photo-sharing app using React and Express, featuring user auth and JWT-based session management.</sup>
+><sup>Photo sharing service  
+Implemented a responsive photo-sharing app using React and Express, featuring user auth and JWT-based session management.</sup>
 
 
 #### Functionality:
@@ -69,7 +69,6 @@ Front-End Developer at the start of my career. I enjoy turning ideas into workin
 
 [![github icon](./images/icons/github-icon.svg) Repository](https://github.com/Zhdko/react-mesto-api-full-gha)&nbsp;&nbsp;
 [![web icon](./images/icons/web-icon.png) Demo](https://zhdko.github.io/mesto-react/)
-
 
 ## ![](./images/icons/codewar-icon.svg) Code example
 
